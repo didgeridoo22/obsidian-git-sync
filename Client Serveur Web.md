@@ -7,7 +7,7 @@ link_citations: true
 graphics: true
 toc: true
 toc-title: table des matières
-tags: [NFA085, TD]
+tags:
 aliases: [, ]
 ---
 # 1 - Méthodes GET et POST
