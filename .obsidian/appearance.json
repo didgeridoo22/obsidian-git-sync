@@ -6,5 +6,7 @@
     "jn-custom - min",
     "tag",
     "Iterative Rainbow Folder Backgrounds"
-  ]
+  ],
+  "nativeMenus": true,
+  "translucency": true
 }

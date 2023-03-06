@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client_serveur_ web.md",
+                "file": "test.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "06bc04c8f9519762",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client_serveur_ web.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client_serveur_ web.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client_serveur_ web.md"
+                "file": "test.md"
               }
             }
           }
@@ -149,8 +148,11 @@
   },
   "active": "c23b74af451d69b3",
   "lastOpenFiles": [
-    "images/url.md",
     "client_serveur_ web.md",
+    "Nouveau Document texte.txt",
+    "images/dev.local.png",
+    "images/url.png",
+    "images/url.md",
     "test.md",
     "Sync.md"
   ]
