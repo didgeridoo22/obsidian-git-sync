@@ -1,15 +1,3 @@
----
-title: Travaux Semaine 2
-subtitle: Protocole HTTP
-author: Didier Corlay
-date: 06/03/2023
-link_citations: true
-graphics: true
-toc: true
-toc-title: table des matières
-tags:
-aliases: [, ]
----
 # 1 - Méthodes GET et POST
 
 Le format d'une requête:
