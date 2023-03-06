@@ -242,7 +242,7 @@ The requested URL was not found on this server.
 ```
 curl -O c:\Users\Didier\Documents\Git\nfa085\web\download\test.txt
 ```
-Le fichier test .txt a été téléchargé dans le répertoire courant, celui dans lequel je me trouvais en exécutant la commande.
+Le fichier test .txt a été téléchargé dans le répertoire de travail.
 <br><br>
 # 10 – Headers
 
