@@ -174,7 +174,7 @@ Cela confère aux serveurs web des performances accrues car ils peuvent traiter 
 Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les cookies sont mis en oeuvre en utilisant les en-têtes.
 
 # 5 – URL
-![[url.png|center|900]]
+![alt tag](url.pgn)
 
 # 6- Codes Status
 
@@ -208,7 +208,7 @@ Nous avons donc une paire d'en-tête client-serveur.
 
 # 8 – Installation Apache & configuration
 
-![[dev.local.png]]
+![alt tag](dev.local.png)
 
 # 9 – CURL
 
@@ -236,7 +236,7 @@ curl : Not Found
 The requested URL was not found on this server.
 ```
 5. Déposer un fichier localement dans le dossier download depuis la racine de votre virtualhost dev.local
-![[depot_fichier.png]]
+![alt tag](depot_fichier.png)
 
 6. Téléchargez le depuis curl
 ```
