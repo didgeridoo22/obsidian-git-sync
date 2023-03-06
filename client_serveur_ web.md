@@ -175,6 +175,7 @@ Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les
 
 # 5 – URL
 ![](images/url.png)
+Réalisé avec excalidraw (obsidian)
 
 # 6- Codes Status
 
@@ -242,7 +243,7 @@ The requested URL was not found on this server.
 ```
 curl -O c:\Users\Didier\Documents\Git\nfa085\web\download\test.txt
 ```
-Le fichier test .txt a été téléchargé dans le répertoire courant, celui dans lequel je me trouvais en exécutant la commande.
+Le fichier test.txt a été téléchargé dans le répertoire de travail.
 <br><br>
 # 10 – Headers
 
