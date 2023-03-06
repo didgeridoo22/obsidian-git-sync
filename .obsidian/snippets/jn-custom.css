@@ -1,0 +1,278 @@
+.emphasis-block {
+  background: #1C1D21;
+  display: table-cell;
+  border-radius: 2px;
+  padding: 1px 10px 1px 1.2px;
+  /* border: 1px solid #f3f3f3; */
+  font-style: italic;
+  color: white;
+  overflow: hidden;
+  position: relative;
+  vertical-align: middle;
+}
+
+.emphasis-block .side-peice {
+  height: 95%;
+  width: 3px;
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 2px;
+  background: #00ffa7;
+}
+
+.emphasis-block .text-block {
+    display: inline-block;
+    padding-left: 8px;
+}
+
+.emphasis-block.bold {
+  font-weight: 600;
+}
+
+.emphasis-block.quote {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.quotation-mark {
+    font-weight: bold;
+    font-size:30px;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin: 0;
+    height: 16px;
+}
+
+.quotation-mark.left {
+  position: absolute;
+  padding-left: 5px;
+  top: 0;
+}
+
+.quotation-mark.right {
+      text-align: right;
+    padding-right: 4px;
+    position: absolute;
+    bottom: 24px;
+    right: 5px;
+}
+
+.emphasis-block.dark {
+    background: #1C1D21 !important;
+    color: white !important;
+}
+
+.emphasis-block.light {
+    background: #EEFFF4;
+
+  color: #3e6918;
+}
+
+/* Blue variation */
+
+.emphasis-block.blue {
+  background: #42A8D7;
+  color: white;
+}
+
+.emphasis-block.blue .side-peice {
+  background: #83e2ff;
+}
+
+/* Red variation */
+
+.emphasis-block.red {
+  background: #E64C4C;
+  color: white;
+}
+
+.emphasis-block.red .side-peice {
+  background: #f75555;
+}
+
+/* Yellow variation */
+
+.emphasis-block.yellow {
+  background: #FFE777;
+  color: black;
+}
+
+.emphasis-block.yellow .side-peice {
+  background: #ffd500;
+}
+
+/* Grey variation */
+
+.emphasis-block.grey {
+      background: #E5E5E5;
+    color: #4f4f4f;
+}
+
+.emphasis-block.grey .side-peice {
+  background: #b7b7b7;
+}
+
+/* Orange variation */
+
+.emphasis-block.orange {
+     background: #FFDAA8;
+    color: #533c22;
+}
+
+.emphasis-block.orange .side-peice {
+  background: #ffa509b8;
+}
+
+/* Gradient variation */
+
+.emphasis-block.gradient {
+    background: rgb(253,92,62);
+background: linear-gradient(90deg, rgba(253,92,62,1) 0%, rgba(218,25,90,1) 100%);
+    color: white;
+}
+
+.emphasis-block.gradient .side-peice {
+  background: #fb3d3d;
+}
+
+/* Gradient Blue-Purple variation */
+
+.emphasis-block.outer-gradient {
+	color: var(--text-normal) !important;
+    	padding: 2.5px !important;
+}
+
+.emphasis-block.outer-gradient .text-block {
+	background: var(--background-primary) !important;
+}
+
+.emphasis-block.outer-gradient.blue-purple {
+    background: linear-gradient(90deg, rgba(250,97,217,1) 0%, rgba(100,122,253,1) 51%, rgba(81,239,248,1) 100%);
+    border-radius: 5px;
+}
+
+.emphasis-block.outer-gradient.blue-purple .text-block {
+  
+background: rgb(0 0 0 / 80%);
+  padding: 5px;
+  border-radius: 5px;
+  
+}
+
+.emphasis-block.outer-gradient.blue-purple .side-peice {
+  display: none;
+}
+
+/* Emphasis Block - Outer Gradient Green */
+
+.emphasis-block.outer-gradient.green {
+    background: linear-gradient(to left, #00C853, #B2FF59);
+    color: white;
+    border-radius: 5px;
+}
+
+.emphasis-block.outer-gradient.green .text-block {
+  
+background: linear-gradient(45deg, #00000078, #000000ba);
+  padding: 5px;
+  border-radius: 5px;
+  
+}
+
+.emphasis-block.outer-gradient.green .side-peice {
+  display: none;
+}
+
+/* Emphasis Block - Outer Gradient Green */
+
+.emphasis-block.outer-gradient.orange {
+    background: linear-gradient(90deg, rgba(253,92,62,1) 0%, rgba(218,25,90,1) 100%);
+    color: white;
+    border-radius: 5px;
+}
+
+.emphasis-block.outer-gradient.orange .text-block {
+  
+background: linear-gradient(45deg, #00000078, #000000ba);
+  padding: 5px;
+  border-radius: 5px;
+  
+}
+
+.emphasis-block.outer-gradient.orange .side-peice {
+  display: none;
+}
+
+/*********************/
+
+.highlight.blue-purple {
+background: linear-gradient(90deg, rgba(250,97,217,1) 0%, rgba(100,122,253,1) 51%, rgba(81,239,248,1) 100%);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: white;
+  text-shadow: 0px 0px 30px black;
+}
+
+.highlight.green-grad {
+background: linear-gradient(to left, #00C853, #97e73a);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: white;
+  text-shadow: 0px 0px 12px rgb(0 0 0 / 45%);
+}
+
+.highlight.violet {
+background: linear-gradient(to left, #743ad5, #d53a9d);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: white;
+  text-shadow: 0px 0px 12px rgb(0 0 0 / 45%);
+}
+
+.highlight.blue {
+background: linear-gradient(to right, #5B4DFB, #21d9ff);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: white;
+  text-shadow: 0px 0px 12px rgb(0 0 0 / 45%);
+}
+
+
+
+.highlight.light-green {
+background: linear-gradient(to right, #85ff91, #91ff8d);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: black;
+/*   text-shadow: 0px 0px 12px rgb(0 0 0 / 45%); */
+}
+
+.highlight.aqua {
+background: linear-gradient(to right, #a0f2ff, #1ffff1);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: black;
+}
+
+.highlight.orange-yellow {
+background: linear-gradient(to right, #ffb178, #f9ff6e);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: black;
+}
+
+.highlight.pink-purple {
+background: linear-gradient(to right, #ff77c7, #da82ff);
+padding:5px;
+  display: inline-block;
+  border-radius: 5px;
+  color: white;
+}

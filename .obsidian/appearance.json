@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Cybertron",
+  "enabledCssSnippets": [
+    "jn-custom",
+    "jn-custom - min",
+    "tag",
+    "Iterative Rainbow Folder Backgrounds"
+  ]
 }

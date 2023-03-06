@@ -174,8 +174,17 @@ Cela confère aux serveurs web des performances accrues car ils peuvent traiter 
 Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les cookies sont mis en oeuvre en utilisant les en-têtes.
 
 # 5 – URL
-![](images/url.png)
 
+
+
+<img src="images/url.png" alt="url" width="200"/>
+
+<div class="aside">
+<img src="images/url.png" alt="url" width="200"/>
+</div>
+
+
+```
 # 6- Codes Status
 
 

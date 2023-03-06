@@ -1,1 +1,0 @@
-- this is a sync test between obsidian and github
