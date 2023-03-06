@@ -175,16 +175,15 @@ Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les
 
 # 5 – URL
 
+![](images/url.png)
 
-
-<img src="images/url.png" alt="url" width="200"/>
+<img src="images/url.png" alt="url" width="600"/>
 
 <div class="aside">
-<img src="images/url.png" alt="url" width="200"/>
+<img src="images/url.png" alt="url" width="600"/>
 </div>
 
 
-```
 # 6- Codes Status
 
 
