@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +147,11 @@
   },
   "active": "c23b74af451d69b3",
   "lastOpenFiles": [
+    "bad/toto.txt",
+    "bad/Nouveau Document texte.txt",
+    "bad",
+    "Nouveau dossier",
+    "client_serveur_web.md",
     "client_serveur_ web.md",
     "Nouveau Document texte.txt",
     "images/dev.local.png",
