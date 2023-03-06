@@ -177,10 +177,10 @@ Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les
 
 ![](images/url.png)
 
-<img src="images/url.png" alt="url" width="600"/>
+<img src="images/url.png" alt="url" width="900"/>
 
 <div class="aside">
-<img src="images/url.png" alt="url" width="600"/>
+<img src="images/url.png" alt="url" width="900"/>
 </div>
 
 
