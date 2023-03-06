@@ -174,7 +174,7 @@ Cela confère aux serveurs web des performances accrues car ils peuvent traiter 
 Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les cookies sont mis en oeuvre en utilisant les en-têtes.
 
 # 5 – URL
-![alt tag](url.pgn)
+![alt tag](url.png)
 
 # 6- Codes Status
 
