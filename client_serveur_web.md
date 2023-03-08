@@ -148,17 +148,6 @@ Ce que  l'on peut déduire des exemples:
 |Get  | GET | réponse  |demande au serveur l'accès à une ressource |   
 |Post | POST| requête  |envoie des données au serveur |   
 
-Ce qu'il y a dans la littérature:
-
-|Propriété   |Get   |Post   |
-|---|---|---|
-|Type de données   |Caractères ASCII uniquement.   | Caractères ASCII mais également données binaires.  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 
 
@@ -177,11 +166,7 @@ Pour que les sessions utilisateur soit cohérentes, des mécanismes tels que les
 
 ![](images/url.png)
 
-<img src="images/url.png" alt="url" width="1000"/>
-
-<div class="aside">
-<img src="images/url.png" alt="url" width="1000"/>
-</div>
+Créé avec Excalidraw (Obsidian)
 
 
 # 6- Codes Status
@@ -309,4 +294,4 @@ Le fichier test .txt a été téléchargé dans le répertoire de travail.
 
 
 
-tag:  #NFA085
+tag:  #NFA085 #Séance2
